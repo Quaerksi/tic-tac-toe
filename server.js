@@ -112,5 +112,5 @@ io.on('connection', socket => {
 
 webServer.listen(PORT, () => {
 
-    console.log(`Server running at http://${IP}:${PORT}/`);
+    console.log(`Server running`);
 });
