@@ -1,0 +1,10 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "two_player_game",
+  "private": true,
+  "dependencies": {
+    "express": "4",
+    "socket.io": "3"
+  }
+}

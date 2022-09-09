@@ -1,0 +1,23 @@
+body {
+  padding: 0px 0px 0px 30px;
+}
+
+#info {
+  height: 60px;
+}
+
+h1, #matchfield {
+  margin: 25px 0px 25px 0px;
+}
+
+#matchfield, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  height: 170px;
+  width: 170px;
+  font-size: 50px;
+  text-align: center;
+}
